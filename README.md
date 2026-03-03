@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/17ad0128-231d-4553-9f4b-ce0644da796c" />
+
 
 **🤖 Современный Telegram-бот для управления VPN подписками через Remnawave API**
 
